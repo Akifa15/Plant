@@ -67,9 +67,9 @@
       </div>
 
 
-      
+  
 
-      <!-- Button (Bootstrap Concept 3: Components) -->
+     <!-- Button (Bootstrap Concept 3: Components) -->
       <div class="text-center mt-4">
         <button class="btn btn-success">See More Plants</button>
       </div>
