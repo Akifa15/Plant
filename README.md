@@ -17,7 +17,7 @@
       <!-- Row and Columns (Bootstrap Concept 2: Grid System) -->
       <div class="row">
         <!-- First Plant -->
-        <div class="col-md-4 text-center">
+        <div class="col-md-6 text-center">
           <img
             src="https://www.shutterstock.com/image-photo/indoor-house-pot-plants-potted-600nw-1747639997.jpg"
             class="img-fluid rounded"
@@ -29,7 +29,7 @@
         </div>
 
         <!-- Second Plant -->
-        <div class="col-md-4 text-center">
+        <div class="col-md-6 text-center">
           <img
             src="https://shop-static.arborday.org/media/0004367_snake-plant.jpeg"
             class="img-fluid rounded"
@@ -37,21 +37,37 @@
             style="width: 200px; height: 200px; object-fit: cover"
           />
           <h5 class="mt-3">Lava Plant</h5>
-          <p>Hardy and great for indoor air purification.</p>
+          <p>Good for protection towards heating settings.</p>
         </div>
 
         <!-- Third Plant -->
-        <div class="col-md-4 text-center">
+        <div class="col-md-6 text-center">
           <img
             src="https://media.houseandgarden.co.uk/photos/64677e9c55fc4e858e5b4d31/master/w_1600%2Cc_limit/492766473"
             class="img-fluid rounded"
-            alt="Peace Lily"
+            alt="Winter Plant"
             style="width: 200px; height: 200px; object-fit: cover"
           />
           <h5 class="mt-3">Peace Lily</h5>
-          <p>Elegant flowers and thrives in shade!</p>
+          <p>It makes the air smell really good!</p>
         </div>
       </div>
+
+        <!-- Fourth Plant -->
+        <div class="col-md-6 text-center">
+          <img
+            src="https://media.houseandgarden.co.uk/photos/64677e9c55fc4e858e5b4d31/master/w_1600%2Cc_limit/492766473"
+            class="img-fluid rounded"
+            alt="Twin Plant"
+            style="width: 200px; height: 200px; object-fit: cover"
+          />
+          <h5 class="mt-3">Peace Lily</h5>
+          <p>It copies what nature throws at them!</p>
+        </div>
+      </div>
+
+
+      
 
       <!-- Button (Bootstrap Concept 3: Components) -->
       <div class="text-center mt-4">
